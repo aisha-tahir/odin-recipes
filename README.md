@@ -1,0 +1,1 @@
+This project requires me to set up a recipe website using HTML.
